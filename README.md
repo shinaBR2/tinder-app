@@ -174,7 +174,7 @@ After defined own data structure, we have the following logic:
 
 ## Architecture
 
-TBD
+Read on [part one - architecture](https://github.com/shinaBR2/tinder-app/blob/main/tutorials/1-Architecture)
 
 ## Technical solutions
 
