@@ -178,4 +178,6 @@ Read on [part one - architecture](https://github.com/shinaBR2/tinder-app/blob/ma
 
 ## Technical solutions
 
-TBD
+After taken a look at above architecture discussion, you may want to see:
+- [Frontend technical part](https://github.com/shinaBR2/tinder-app/blob/main/tutorials/2-Frontend-technical.md)
+- [Backend technical part](https://github.com/shinaBR2/tinder-app/blob/main/tutorials/3-Backend-technical.md)
