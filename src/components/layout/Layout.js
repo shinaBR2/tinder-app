@@ -61,15 +61,6 @@ const Layout = (props) => {
               relax, and with no payment about the result of your current action
               in the future. So, why not just do it, right now?
             </Typography>
-            <div className={classes.heroButtons}>
-              <Grid container spacing={2} justify="center">
-                <Grid item>
-                  <Button variant="contained" color="primary">
-                    React people now
-                  </Button>
-                </Grid>
-              </Grid>
-            </div>
           </Container>
         </div>
         <Container className={classes.cardGrid} maxWidth="md">
